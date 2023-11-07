@@ -842,6 +842,18 @@ img.MessengerImageMessage {
 
 /*
  ============================================================================================================
+ + Image :: Application Module :: List :: Images => Avatars
+ ============================================================================================================
+*/
+
+img.ListImageAvatar {
+
+  border-radius: 20%;
+
+} /* [ + ] Image :: Application Module :: List :: Images :: Avatars */
+
+/*
+ ============================================================================================================
  + Image :: Application Module :: Profile => Streams => Stream Image
  ============================================================================================================
 */
@@ -878,6 +890,18 @@ img.MemberDirectory {
 
 /*
  ============================================================================================================
+ + Image :: Application Module :: Registered Member Account => Member Panel
+ ============================================================================================================
+*/
+
+img.MemberPanel {
+
+  border-radius: 10%;
+
+} /* [ + ] Image :: Application Module :: Registered Member Account :: Member Panel */
+
+/*
+ ============================================================================================================
  + Image :: Application Module :: Registered Member Account Profile => Registered Member Account Profile Picture
  ============================================================================================================
 */
@@ -899,6 +923,18 @@ img.SearchMemberProfile {
   border-radius: 10%;
 
 } /* [ + ] Image :: Application Module :: Search :: Registered Member Account :: Registered Member Account Profile Picture */
+
+/*
+ ============================================================================================================
+ + Image :: Forum :: Message :: Author
+ ============================================================================================================
+*/
+
+img.AMAForumTMAuthor {
+
+  border-radius: 10%;
+
+} /* [ + ] Image :: Forum :: Topic :: Mesage :: Author */
 
 /*
  ============================================================================================================
