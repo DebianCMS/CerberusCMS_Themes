@@ -1,5 +1,8 @@
 - NETWORK TOOLS
-sudo pacman -S net-tools wireshark-cli wireshark-qt traceroute whois tcpdump aircrack-ng macchanger nmap openvpn dnscrypt-proxy
+sudo pacman -S net-tools wireshark-cli wireshark-qt traceroute whois tcpdump aircrack-ng macchanger nmap
+
+- NETWORK SECURITY
+openvpn dnscrypt-proxy libressl openssl
 
 - GOOGLE ANDROID OPEN SOURCE SOFTWARE APPLICATIONS
 sudo pacman -S android-tools heimdall
